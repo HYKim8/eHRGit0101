@@ -1,10 +1,10 @@
 package com.sist.ehr.e01;
 
-public class HelloWorld {
+public class HelloWorldYYM {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("commit test _ ¿©À±¸ð");
+		System.out.println("HelloWorld");
 	}
 
 }
