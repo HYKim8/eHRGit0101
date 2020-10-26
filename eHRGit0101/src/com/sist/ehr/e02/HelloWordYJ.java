@@ -7,6 +7,7 @@ public class HelloWordYJ {
 		
 		System.out.println("Hello World!");
 		System.out.println("Hello World! by  joun!!!");
+		System.out.println("Hello World! branch & merge Test");
 
 	}
 
